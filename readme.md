@@ -1,6 +1,6 @@
 # User Management System 
 
-Laravel project to apply CRUD functionalities on users.
+Laravel project to apply CRUD functionalities on employee.
 
 ## Getting Started
 
